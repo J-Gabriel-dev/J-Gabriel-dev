@@ -2,7 +2,6 @@
 - 👀 I’m interested in start my experience line and keep learning
 - 🌱 I’m currently learning python, react and node.js
 - 💞️ I’m looking to collaborate on software development companies
-- 📫 How to reach me. Email: j.gabrielmoreiraalves@gmail.com 
 
 <!---
 J-Gabriel-dev/J-Gabriel-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
